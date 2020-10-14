@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Math, and Computer Science.
 - 👋 See all my work at [Yaonotes](https://yaonotes.org)
 
+![GitHub metrics](https://metrics.lecoq.io/xzyaoi)
+
 ### Status
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xzyaoi)](https://yaonotes.org)
@@ -12,4 +14,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzyaoi&hide=php,html)](https://github.com/xzyaoi)
 
-![GitHub metrics](https://metrics.lecoq.io/xzyaoi)
