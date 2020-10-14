@@ -11,3 +11,5 @@
 [![Xiaozhe's github stats](https://github-readme-stats.vercel.app/api?username=xzyaoi&count_private=true)](https://github.com/xzyaoi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzyaoi&hide=php,html)](https://github.com/xzyaoi)
+
+![GitHub metrics](https://metrics.lecoq.io/xzyaoi)
